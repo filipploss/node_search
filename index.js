@@ -78,3 +78,5 @@ getFiles(
   "/.gitignore"
 );
 
+/* script was here */
+
